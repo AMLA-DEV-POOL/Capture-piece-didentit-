@@ -1,0 +1,7 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+configurations		NFI		nouveau fichier
+documents		NFI		nouveau fichier
+identifiantspush		NFI		nouveau fichier
+identifiantpush		NFI		nouveau fichier
+utilisateurs		NFI		nouveau fichier
+webserviceOcr		CNX+		

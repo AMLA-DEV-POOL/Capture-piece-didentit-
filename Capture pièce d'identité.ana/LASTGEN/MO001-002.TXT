@@ -1,0 +1,3 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+configurations		TAR	1320	nouvelle taille enregistrement : 1320
+configurations	refUtilisateur	RUB+		refUtilisateur est une nouvelle rubrique
